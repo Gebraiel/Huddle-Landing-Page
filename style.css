@@ -39,6 +39,7 @@ header{
 .container{
   display: flex;
   width: 90%;
+  max-width:1250px;
   align-items: center;
   gap:50px;
 }
